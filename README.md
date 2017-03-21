@@ -10,7 +10,7 @@ These SAGs provied from 14 and 9 cells from MAST-4A and MAST-4E isolated during 
 
 The raw sequences of these two draft genomes are deposited here (including contigs < 1kb).
 
-The work resulting of the study of these two coassembing genomes have been plublished in Mangot et al., Sci. Rep., 2017.
+The work resulting of the study of these two coassembing genomes have been published in Mangot et al., Sci. Rep., 2017.
 
 ## Additional questions
 
