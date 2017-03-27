@@ -1,6 +1,6 @@
 # Coassembled_genomes
 
-Draft genomes of MAST-4 lineages obtained by a coassembling strategy
+Draft genomes of MAST-4 lineages obtained by a co-assembling strategy
 
 ## Description
 
@@ -8,9 +8,9 @@ Here are deposited two draft assemblies of two clades of MAST-4 (uncultured mari
 
 These SAGs provied from 14 and 9 cells from MAST-4A and MAST-4E isolated during the Tara Oceans expedition.
 
-The raw sequences of these two draft genomes are deposited here (including contigs < 1kb).
+The raw sequences of these two draft genomes are deposited here (including both contigs < and > 1kb).
 
-The work resulting of the study of these two coassembing genomes have been published in Mangot et al., Sci. Rep., 2017.
+The work resulting of the study of these two co-assembled genomes have been published in Mangot et al., Sci. Rep., 2017.
 
 ## Additional questions
 
