@@ -8,7 +8,7 @@ Here are deposited two draft assemblies of two clades of MAST-4 (uncultured mari
 
 These SAGs provided from 14 and 9 cells from MAST-4A and MAST-4E isolated during the Tara Oceans expedition.
 
-The raw sequences of these two draft genomes are deposited here (including both contigs < and > 1kb).
+For each lineage (MAST-4A and MAST-4E), the raw sequences (including both contigs < and > 1kb).
 
 The work resulting of the study of these two co-assembled genomes has been published in Mangot et al., Sci. Rep., 2017.
 
